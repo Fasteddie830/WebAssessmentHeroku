@@ -1,6 +1,6 @@
 ------------------------------HEADS_UP----------------------------------------
 
-For the full Git history, go to:
+For the full Git commit history, go to:
 
         https://github.com/Fasteddie830/WebAssessment
         
@@ -88,5 +88,13 @@ The website will then open on
     http://localhost:5000/
 
 Type this URL into preferrably a chromium based browser. The rest of the process is the same as in the How to Use section.
+
+-----------------------------------Test------------------------------------------
+
+The system test case file is uploaded to this repository under the filename System Test.docx, please find it in the repo.
+
+-----------------------------------Disclaimer------------------------------------
+
+A huge thanks goes to Fiona Fairlie for seeing us through this module, helping us every step of the way!
 
 -----------------------------------End------------------------------------------
