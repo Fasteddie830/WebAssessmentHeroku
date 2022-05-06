@@ -95,7 +95,10 @@ Type this URL into preferrably a chromium based browser. The rest of the process
 
 -----------------------------------Test------------------------------------------
 
-The system test case file is uploaded to this repository under the filename System Test.docx, please find it in the repo.
+The system testing file alongside with the initial design plan is uploaded to OneDrive because of size limitations on the submission.
+Link is the following, please find it here:
+
+               https://caledonianac-my.sharepoint.com/:f:/g/personal/dnemet200_caledonian_ac_uk/Ep8DyR84kPZKq01jDt1Knn8B12T2ghi093OA7fvh2UYW7w?e=pLzs8a
 
 -----------------------------------Disclaimer------------------------------------
 
