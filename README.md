@@ -1,3 +1,13 @@
+------------------------------HEADS_UP----------------------------------------
+
+For the full Git history, go to:
+
+        https://github.com/Fasteddie830/WebAssessment
+        
+This folder is specifically made for the heroku upload, and I didn't want to do that with the original one, even if only on a branch.
+This is just for backup safety reasons. 
+
+
 -------------------------------Description-------------------------------------
 
 Glasgow Caledonian University, Year 3 Computing: Web Development 2, Assessment 2.
