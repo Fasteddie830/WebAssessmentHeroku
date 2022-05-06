@@ -33,6 +33,10 @@ After logging in to the website, additional functions will be visible on the men
 
 -------------------------------How To use--------------------------------------
 
+Link to live website:
+
+        https://web-dev-2-restaurant-app.herokuapp.com/
+
 The regular visitor can access the website through the normal link, and all the other pages can be accessed through the NAV part of the page (Top row).
 
 The admin page can be accessed through pasting this link in the url.:
