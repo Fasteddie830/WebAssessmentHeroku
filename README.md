@@ -77,6 +77,10 @@ To run the website locally, download the github repository containing this websi
 
     npm install nodejs
 
+If this repository is downloaded, all the needed additions are included in the package.json file, so the only required command is
+
+        npm i
+
 This step is only required if the website doesn't start.
 
 To start the website, run the command:
